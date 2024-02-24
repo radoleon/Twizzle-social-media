@@ -5,7 +5,7 @@ This project represents a real-time social media application, similar to X, but 
 > [!NOTE]
 > To run this project on your machine, please ensure that you have Node.js installed. Afterward, you can install the required dependencies by running `npm install` in the project directory.
 ### Showcase 🔥
-![](https://github.com/radoleon/projects/assets/100576972/f205d641-057b-4b99-84e5-b64241918804)
+![](https://github.com/radoleon/Twizzle-social-media/assets/100576972/fa072dae-565d-44f1-98d0-6cbb38db09d2)
 ### Features ✨
 - Integration with real-time database and authentification service
 - Option to create, delete, comment, and like different posts
