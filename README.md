@@ -3,7 +3,7 @@
 ### Description ✏️
 This project represents a real-time social media application, similar to X, but significantly simplified. After user authentification, the user can create a post, as well as comment or like posts of other users. All statistics about the current user and his posts are displayed on the dashboard at the top of the page. All changes and updates are displayed in real-time. Each user is able to delete only his own posts. In the header of this page is an option to change the color theme from light to dark, synced with the browser's local storage.
 > [!NOTE]
-> Animations for this project were created with the **Framer Motion** package.
+> To run this project on your machine, please ensure that you have Node.js installed. Afterward, you can install the required dependencies by running `npm install` in the project directory.
 ### Showcase 🔥
 ![](https://github.com/radoleon/projects/assets/100576972/f205d641-057b-4b99-84e5-b64241918804)
 ### Features ✨
